@@ -3,8 +3,10 @@ Bem-vindo a este universo! 💎
 <div align="center">
   <a href="https://github.com/erikadsrs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikadsrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikadsrs&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikadsrs)](https://github.com/erikadsrs/github-readme-stats)
+
+ </div>
 
 ✨ Desenvolvedora Front End
 <br>
