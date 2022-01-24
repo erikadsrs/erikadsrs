@@ -4,7 +4,7 @@ Bem-vindo a este universo! 💎
   <a href="https://github.com/erikadsrs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikadsrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikadsrs)](https://github.com/erikadsrs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikadsrs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  </div>
 
