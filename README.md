@@ -28,3 +28,4 @@ Bem-vindo a este universo! 💎
 </div>
 
  ![Snake animation](https://github.com/erikadsrs/erikadsrs/blob/output/github-contribution-grid-snake.svg)
+ 
