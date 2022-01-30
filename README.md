@@ -4,6 +4,8 @@ Bem-vindo a este universo! 💎
   <a href="https://github.com/erikadsrs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikadsrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikadsrs&layout=compact&langs_count=7&theme=dracula"/>
+
  </div>
 
 ✨ Desenvolvedora Front End
