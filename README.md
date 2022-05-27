@@ -11,9 +11,9 @@ Bem-vindo a este universo! 💎
    
   </div>
 
-✨ Desenvolvedora Front End
+✨ Desenvolvedora Salesforce
 <br>
-💻 Estudando HTML, CSS, Javascript
+💻 Estudando APEX, HTML, CSS, Javascript
 <br>
 
 <div style="display: inline_block"><br>
